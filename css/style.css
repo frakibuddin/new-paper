@@ -160,6 +160,7 @@ ul {
 .blank-imgs {
   padding-top: 15rem;
   position: relative;
+  height: 45rem;
 }
 .blank-imgs img {
   position: absolute;
@@ -169,4 +170,14 @@ ul {
 .blank-imgs .blank-imgs-one {
   top: -10rem;
   transform: translateX(-75%);
+}
+.btn-cmn {
+  background: #8929ed;
+  padding: 3rem 4rem;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 2rem;
+}
+.btn-cmn:hover {
+  color: #fff;
 }
